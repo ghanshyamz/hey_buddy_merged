@@ -2,3 +2,12 @@
   display: flex;
   width: 100%;
 }
+
+.rightbar,
+.sidebar {
+  background-color: #ffffff;
+}
+
+/* .feed {
+  background-color: rgb(221, 146, 255);
+} */

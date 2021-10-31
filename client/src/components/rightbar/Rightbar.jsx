@@ -59,7 +59,19 @@ export default function Rightbar({ user }) {
             <b> Vivek Para</b> and <b> 3 other friends </b> have birthday today
           </span>
         </div>
-        <img className="rightbarAd" src={`${PF}gift.png`} alt="" />
+        <br />
+
+        <div className="ad-container">
+          <hr />
+          <br />
+          <br />
+          <h2 className="ad-heading">QUIZ GAME</h2>
+
+          <img className="rightbarAd" src={`${PF}category_list.jpg`} alt="" />
+          <h3 className="ad-footer">Download the app now</h3>
+          <hr />
+        </div>
+
         <h4 className="rightbarTitle">Online Friends</h4>
         <ul className="rightbarFriendList">
           {Users.map((u) => (
