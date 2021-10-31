@@ -28,8 +28,10 @@
   margin-bottom: 10px;
 }
 
-.loginDec {
+.loginDesc {
   font-size: 24px;
+  font-weight: 500;
+  color: rgb(156, 43, 248);
 }
 
 .loginBox {

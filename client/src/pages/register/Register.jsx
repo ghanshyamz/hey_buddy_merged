@@ -35,6 +35,8 @@ export default function Register() {
       <div className="loginWrapper">
         <div className="loginLeft">
           <h3 className="loginLogo">HEY BUDDY</h3>
+          <img src="\assets\login-logo.jpg" alt="logo" className="loginImg" />
+          <br />
           <span className="loginDesc">Connect with friends and family!</span>
         </div>
         <div className="loginRight">
