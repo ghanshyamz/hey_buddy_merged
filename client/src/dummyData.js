@@ -1,53 +1,53 @@
 export const Users = [
   {
     id: 1,
-    profilePicture: "person/akash.jpg",
-    username: "Safak Kocaoglu",
+    profilePicture: "person/virat.jfif",
+    username: "Virat Kohli",
   },
   {
     id: 2,
-    profilePicture: "person/vivek.jpg",
-    username: "Janell Shrum",
+    profilePicture: "person/akshay.jfif",
+    username: "Akshay Kumar",
   },
   {
     id: 3,
-    profilePicture: "person/akash.jpg",
-    username: "Alex Durden",
+    profilePicture: "person/kiara.jpg",
+    username: "Kiara Advani",
   },
   {
     id: 4,
-    profilePicture: "person/vivek.jpg",
-    username: "Dora Hawks",
+    profilePicture: "person/dhoni.jpg",
+    username: "MS Dhoni",
   },
   {
     id: 5,
-    profilePicture: "person/akash.jpg",
-    username: "Thomas Holden",
+    profilePicture: "person/elon.jpg",
+    username: "Elon Musk",
   },
   {
     id: 6,
-    profilePicture: "person/akshay_kumar.jpg",
-    username: "Shirley Beauchamp",
+    profilePicture: "person/bhuvan.jpg",
+    username: "BB ki vines",
   },
   {
     id: 7,
-    profilePicture: "person/shahid_kapoor.jpeg",
-    username: "Travis Bennett",
+    profilePicture: "person/cr7.jpg",
+    username: "Christiano Ronaldo",
   },
   {
     id: 8,
-    profilePicture: "person/akshay_kumar.jpg",
-    username: "Kristen Thomas",
+    profilePicture: "person/chris.jpg",
+    username: "Chris Hemsworth",
   },
   {
     id: 9,
-    profilePicture: "person/shahid_kapoor.jpeg",
-    username: "Gary Duty",
+    profilePicture: "person/rohit.jpg",
+    username: "Rohit Sharma",
   },
   {
     id: 10,
-    profilePicture: "person/akshay_kumar.jpg",
-    username: "Safak Kocaoglu",
+    profilePicture: "person/bill.jfif",
+    username: "Bill Gates",
   },
 ];
 

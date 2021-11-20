@@ -71,13 +71,6 @@ export default function Rightbar({ user }) {
           <h3 className="ad-footer">Download the app now</h3>
           <hr />
         </div>
-
-        <h4 className="rightbarTitle">Online Friends</h4>
-        <ul className="rightbarFriendList">
-          {Users.map((u) => (
-            <Online key={u.id} user={u} />
-          ))}
-        </ul>
       </>
     );
   };
